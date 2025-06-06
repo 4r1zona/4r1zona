@@ -42,7 +42,7 @@ I don’t have public repos yet, but I’m working on a few cool ideas. Coming s
 
 ### 📫 Reach me
 
-- 📸 Instagram: [@4r1zona.dev]([https://instagram.com/your_instagram](https://www.instagram.com/4r1zona.dev/))
+- 📸 Instagram: [@4r1zona.dev](https://www.instagram.com/4r1zona.dev/)
 - 💼 LinkedIn: [Gonçalo Cunha](https://www.linkedin.com/in/gon%C3%A7alo-cunha-a9aba12a0/)
 - ✉️ Email:cunhagoncalo153@gmail.com
 
