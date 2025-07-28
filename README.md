@@ -1,23 +1,21 @@
 
 <div align="center">
-  <h1>👋 Hey there, I'm Arizona</h1>
+  <h1> Hey there, I'm Arizona</h1>
   <p>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30"/>
     <strong>Computer Engineering Student</strong>
+    <br>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30"/>
   </p>
   <p>
-    🚀 Passionate about Programming, Design & Creative Coding <br/>
-    📍 Building the future from Angola 🇦🇴
+     Passionate about Programming, Design & Creative Coding <br/>
+     Building the future from Angola 🇦🇴
   </p>
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
 
-## 🧠 About Me
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+##  About Me
 
 Hi! I'm Arizona, a naturally curious and creative problem-solver on a mission to become a digital Swiss Army knife. I blend design, development, and endless curiosity in everything I create.
 
@@ -36,7 +34,7 @@ Currently building my foundation in web technologies while exploring how code ca
 
 <br clear="right"/>
 
-## 🛠️ Tech Stack & Tools
+## 🛠 Tech Stack & Tools
 
 <div align="center">
   <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" height="100"/>
@@ -56,7 +54,7 @@ Currently building my foundation in web technologies while exploring how code ca
 
 ---
 
-## 🚧 Projects in Progress
+##  Projects in Progress
 
 <div align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400"/>
@@ -89,7 +87,7 @@ Currently building my foundation in web technologies while exploring how code ca
 
 ---
 
-## 🌐 Let's Connect
+##  Let's Connect
 
 <div align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100"/>
@@ -113,16 +111,16 @@ Currently building my foundation in web technologies while exploring how code ca
 
 ---
 
-## ⚡ Fun Facts
+##  Fun Facts
 
 <div align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200"/>
   <br/>
-  🎯 I'm designing my developer journey from scratch — one repo at a time
+   I'm designing my developer journey from scratch — one repo at a time
   <br/>
-  🌟 Always open to collaborate on exciting projects
+   Always open to collaborate on exciting projects
   <br/>
-  💡 Believer that code is poetry in motion
+   Believer that code is poetry in motion
   <br/>
   🚀 Let's build something AWESOME together!
 </div>
@@ -131,6 +129,6 @@ Currently building my foundation in web technologies while exploring how code ca
 
 <div align="center">
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="100"/>
-  <h3>💫 "Code is the bridge between imagination and reality" 💫</h3>
+  <h3> "Code is the bridge between imagination and reality" </h3>
   <img src="https://komarev.com/ghpvc/?username=arizona&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
 </div>
