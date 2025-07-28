@@ -62,12 +62,12 @@ Currently building my foundation in web technologies while exploring how code ca
   <strong>Something cool is coming!</strong>
 </div>
 
-**🧪 Current Experiments:**
+** Current Experiments:**
 
-- 🖥️ Personal Portfolio - Dark/light theme toggle with smooth animations
-- 🧩 JavaScript Mini-Projects - Interactive clocks, dynamic forms, smart calculators
-- 🎨 Code + Design Fusion - Where creativity meets functionality
-- 🌐 Responsive Web Components - Mobile-first approach
+-  Personal Portfolio - Dark/light theme toggle with smooth animations
+-  JavaScript Mini-Projects - Interactive clocks, dynamic forms, smart calculators
+-  Code + Design Fusion - Where creativity meets functionality
+-  Responsive Web Components - Mobile-first approach
 
 > *"The code is already inside you, Neo. You just need to believe."* — Inspired by The Matrix
 
@@ -77,7 +77,7 @@ Currently building my foundation in web technologies while exploring how code ca
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arizona&show_icons=true&theme=radical&hide_border=true" width="400"/>
@@ -122,7 +122,7 @@ Currently building my foundation in web technologies while exploring how code ca
   <br/>
    Believer that code is poetry in motion
   <br/>
-  🚀 Let's build something AWESOME together!
+   Let's build something AWESOME together!
 </div>
 
 ---
