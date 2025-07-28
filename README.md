@@ -36,37 +36,6 @@ Currently building my foundation in web technologies while exploring how code ca
 
 <br clear="right"/>
 
----
-
-## 🌱 What I'm Learning
-
-<div align="center">
-  <table>
-    <tr>
-      <th>💻 Technology</th>
-      <th>🖌️ Design</th>
-      <th>🇬🇧 Language</th>
-    </tr>
-    <tr>
-      <td>JavaScript, HTML5 & CSS3</td>
-      <td>Graphic Design</td>
-      <td>English Practice</td>
-    </tr>
-    <tr>
-      <td><img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50"/></td>
-      <td><img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="50"/></td>
-      <td><img src="https://media.giphy.com/media/TLF4ZVY6XlMZi/giphy.gif" width="50"/></td>
-    </tr>
-    <tr>
-      <td>Building web experiences</td>
-      <td>Helping family's print shop</td>
-      <td>Yes, this README is practice! 😄</td>
-    </tr>
-  </table>
-</div>
-
----
-
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
