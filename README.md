@@ -21,7 +21,7 @@ Hi! I'm Arizona, a naturally curious and creative problem-solver on a mission to
 
 Currently building my foundation in web technologies while exploring how code can intersect with art, learning, and real-world impact. Every line of code is a step toward something extraordinary.
 
-> "The future belongs to the curious." 💫
+> "The future belongs to the curious." 
 
 > *"With great power comes great responsibility."* — Uncle Ben (Spider-Man)  
 > And with great code, comes great possibility.
